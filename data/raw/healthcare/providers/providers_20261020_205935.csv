@@ -1,0 +1,501 @@
+provider_id,provider_name,specialization,hospital_id,license_number,city,state,status,updated_at,provider_type
+1,Provider 1,Cardiology,1,LIC-00001,Hyderabad,Telangana,Active,2026-10-05 20:40:14.967931,Physician
+2,Provider 2,Neurology,2,LIC-00002,Bangalore,Karnataka,Inactive,2026-10-04 20:40:14.968578,Surgeon
+3,Provider 3,Orthopedics,3,LIC-00003,Chennai,Tamil Nadu,Active,2026-10-03 20:40:14.968578,Nurse Practitioner
+4,Provider 4,Pediatrics,4,LIC-00004,Mumbai,Maharashtra,Inactive,2026-10-02 20:40:14.968578,Physician Assistant
+5,Provider 5,General Medicine,5,LIC-00005,Pune,Maharashtra,Active,2026-10-01 20:40:14.969592,Physician
+6,Provider 6,Oncology,6,LIC-00006,Hyderabad,Telangana,Inactive,2026-09-30 20:40:14.969592,Surgeon
+7,Provider 7,Cardiology,7,LIC-00007,Bangalore,Karnataka,Active,2026-09-29 20:40:14.970613,Nurse Practitioner
+8,Provider 8,Neurology,8,LIC-00008,Chennai,Tamil Nadu,Inactive,2026-09-28 20:40:14.970613,Physician Assistant
+9,Provider 9,Orthopedics,9,LIC-00009,Mumbai,Maharashtra,Active,2026-09-27 20:40:14.970613,Physician
+10,Provider 10,Pediatrics,10,LIC-00010,Pune,Maharashtra,Inactive,2026-09-26 20:40:14.971765,Surgeon
+11,Provider 11,General Medicine,11,LIC-00011,Hyderabad,Telangana,Active,2026-09-25 20:40:14.971765,Nurse Practitioner
+12,Provider 12,Oncology,12,LIC-00012,Bangalore,Karnataka,Inactive,2026-09-24 20:40:14.972967,Physician Assistant
+13,Provider 13,Cardiology,13,LIC-00013,Chennai,Tamil Nadu,Active,2026-09-23 20:40:14.972967,Physician
+14,Provider 14,Neurology,14,LIC-00014,Mumbai,Maharashtra,Inactive,2026-09-22 20:40:14.972967,Surgeon
+15,Provider 15,Orthopedics,15,LIC-00015,Pune,Maharashtra,Active,2026-09-21 20:40:14.972967,Nurse Practitioner
+16,Provider 16,Pediatrics,16,LIC-00016,Hyderabad,Telangana,Inactive,2026-09-20 20:40:14.974478,Physician Assistant
+17,Provider 17,General Medicine,17,LIC-00017,Bangalore,Karnataka,Active,2026-09-19 20:40:14.975493,Physician
+18,Provider 18,Oncology,18,LIC-00018,Chennai,Tamil Nadu,Inactive,2026-09-18 20:40:14.975493,Surgeon
+19,Provider 19,Cardiology,19,LIC-00019,Mumbai,Maharashtra,Active,2026-09-17 20:40:14.976504,Nurse Practitioner
+20,Provider 20,Neurology,20,LIC-00020,Pune,Maharashtra,Inactive,2026-09-16 20:40:14.976504,Physician Assistant
+21,Provider 21,Orthopedics,21,LIC-00021,Hyderabad,Telangana,Active,2026-09-15 20:40:14.977490,Physician
+22,Provider 22,Pediatrics,22,LIC-00022,Bangalore,Karnataka,Inactive,2026-09-14 20:40:14.977490,Surgeon
+23,Provider 23,General Medicine,23,LIC-00023,Chennai,Tamil Nadu,Active,2026-09-13 20:40:14.977490,Nurse Practitioner
+24,Provider 24,Oncology,24,LIC-00024,Mumbai,Maharashtra,Inactive,2026-09-12 20:40:14.978488,Physician Assistant
+25,Provider 25,Cardiology,25,LIC-00025,Pune,Maharashtra,Active,2026-09-11 20:40:14.978488,Physician
+26,Provider 26,Neurology,26,LIC-00026,Hyderabad,Telangana,Inactive,2026-09-10 20:40:14.978488,Surgeon
+27,Provider 27,Orthopedics,27,LIC-00027,Bangalore,Karnataka,Active,2026-09-09 20:40:14.979490,Nurse Practitioner
+28,Provider 28,Pediatrics,28,LIC-00028,Chennai,Tamil Nadu,Inactive,2026-09-08 20:40:14.979490,Physician Assistant
+29,Provider 29,General Medicine,29,LIC-00029,Mumbai,Maharashtra,Active,2026-09-07 20:40:14.979490,Physician
+30,Provider 30,Oncology,30,LIC-00030,Pune,Maharashtra,Inactive,2026-09-06 20:40:14.980826,Surgeon
+31,Provider 31,Cardiology,31,LIC-00031,Hyderabad,Telangana,Active,2026-09-05 20:40:14.988780,Nurse Practitioner
+32,Provider 32,Neurology,32,LIC-00032,Bangalore,Karnataka,Inactive,2026-09-04 20:40:14.988780,Physician Assistant
+33,Provider 33,Orthopedics,33,LIC-00033,Chennai,Tamil Nadu,Active,2026-09-03 20:40:14.989828,Physician
+34,Provider 34,Pediatrics,34,LIC-00034,Mumbai,Maharashtra,Inactive,2026-09-02 20:40:14.990511,Surgeon
+35,Provider 35,General Medicine,35,LIC-00035,Pune,Maharashtra,Active,2026-09-01 20:40:14.990511,Nurse Practitioner
+36,Provider 36,Oncology,36,LIC-00036,Hyderabad,Telangana,Inactive,2026-08-31 20:40:14.991528,Physician Assistant
+37,Provider 37,Cardiology,37,LIC-00037,Bangalore,Karnataka,Active,2026-08-30 20:40:14.991528,Physician
+38,Provider 38,Neurology,38,LIC-00038,Chennai,Tamil Nadu,Inactive,2026-08-29 20:40:14.992532,Surgeon
+39,Provider 39,Orthopedics,39,LIC-00039,Mumbai,Maharashtra,Active,2026-08-28 20:40:14.992532,Nurse Practitioner
+40,Provider 40,Pediatrics,40,LIC-00040,Pune,Maharashtra,Inactive,2026-08-27 20:40:14.993533,Physician Assistant
+41,Provider 41,General Medicine,41,LIC-00041,Hyderabad,Telangana,Active,2026-08-26 20:40:14.993533,Physician
+42,Provider 42,Oncology,42,LIC-00042,Bangalore,Karnataka,Inactive,2026-08-25 20:40:14.994540,Surgeon
+43,Provider 43,Cardiology,43,LIC-00043,Chennai,Tamil Nadu,Active,2026-08-24 20:40:14.994540,Nurse Practitioner
+44,Provider 44,Neurology,44,LIC-00044,Mumbai,Maharashtra,Inactive,2026-08-23 20:40:14.995591,Physician Assistant
+45,Provider 45,Orthopedics,45,LIC-00045,Pune,Maharashtra,Active,2026-08-22 20:40:14.995591,Physician
+46,Provider 46,Pediatrics,46,LIC-00046,Hyderabad,Telangana,Inactive,2026-08-21 20:40:14.995591,Surgeon
+47,Provider 47,General Medicine,47,LIC-00047,Bangalore,Karnataka,Active,2026-08-20 20:40:14.996573,Nurse Practitioner
+48,Provider 48,Oncology,48,LIC-00048,Chennai,Tamil Nadu,Inactive,2026-08-19 20:40:14.996573,Physician Assistant
+49,Provider 49,Cardiology,49,LIC-00049,Mumbai,Maharashtra,Active,2026-08-18 20:40:14.996573,Physician
+50,Provider 50,Neurology,50,LIC-00050,Pune,Maharashtra,Inactive,2026-08-17 20:40:14.997750,Surgeon
+51,Provider 51,Orthopedics,51,LIC-00051,Hyderabad,Telangana,Active,2026-08-16 20:40:14.997750,Nurse Practitioner
+52,Provider 52,Pediatrics,52,LIC-00052,Bangalore,Karnataka,Inactive,2026-08-15 20:40:14.998849,Physician Assistant
+53,Provider 53,General Medicine,53,LIC-00053,Chennai,Tamil Nadu,Active,2026-08-14 20:40:14.998849,Physician
+54,Provider 54,Oncology,54,LIC-00054,Mumbai,Maharashtra,Inactive,2026-08-13 20:40:14.999860,Surgeon
+55,Provider 55,Cardiology,55,LIC-00055,Pune,Maharashtra,Active,2026-08-12 20:40:15.000405,Nurse Practitioner
+56,Provider 56,Neurology,56,LIC-00056,Hyderabad,Telangana,Inactive,2026-08-11 20:40:15.000405,Physician Assistant
+57,Provider 57,Orthopedics,57,LIC-00057,Bangalore,Karnataka,Active,2026-08-10 20:40:15.000405,Physician
+58,Provider 58,Pediatrics,58,LIC-00058,Chennai,Tamil Nadu,Inactive,2026-08-09 20:40:15.001729,Surgeon
+59,Provider 59,General Medicine,59,LIC-00059,Mumbai,Maharashtra,UNKNOWN,2026-08-08 20:40:15.002054,Nurse Practitioner
+60,Provider 60,Oncology,60,LIC-00060,Pune,Maharashtra,Inactive,2026-08-07 20:40:15.002054,Physician Assistant
+61,Provider 61,UNKNOWN,61,LIC-00061,Hyderabad,Telangana,Active,2026-08-06 20:40:15.003083,Physician
+62,Provider 62,Neurology,62,LIC-00062,Bangalore,Karnataka,Inactive,2026-08-05 20:40:15.003083,Surgeon
+63,Provider 63,Orthopedics,63,LIC-00063,Chennai,Tamil Nadu,Active,2026-08-04 20:40:15.003083,Nurse Practitioner
+64,Provider 64,Pediatrics,64,LIC-00064,Mumbai,Maharashtra,Inactive,2026-08-03 20:40:15.003083,Physician Assistant
+65,Provider 65,General Medicine,65,LIC-00065,Pune,Maharashtra,Active,2026-08-02 20:40:15.004613,Physician
+66,Provider 66,Oncology,66,LIC-00066,Hyderabad,Telangana,Inactive,2026-08-01 20:40:15.004613,Surgeon
+67,Provider 67,Cardiology,9999,LIC-00067,Bangalore,Karnataka,Active,2026-07-31 20:40:15.005629,Nurse Practitioner
+68,Provider 68,Neurology,68,LIC-00068,Chennai,Tamil Nadu,Inactive,2026-07-30 20:40:15.006629,Physician Assistant
+69,Provider 69,Orthopedics,69,LIC-00069,Mumbai,Maharashtra,Active,2026-07-29 20:40:15.006629,Physician
+70,Provider 70,Pediatrics,70,LIC-00070,Pune,Maharashtra,Inactive,2026-07-28 20:40:15.007629,Surgeon
+71,,General Medicine,71,LIC-00071,Hyderabad,Telangana,Active,2026-07-27 20:40:15.007629,Nurse Practitioner
+72,Provider 72,Oncology,72,LIC-00072,Bangalore,Karnataka,Inactive,2026-07-26 20:40:15.008627,Physician Assistant
+73,Provider 73,Cardiology,73,,Chennai,Tamil Nadu,Active,2026-07-25 20:40:15.008627,Physician
+74,Provider 74,Neurology,74,LIC-00074,Mumbai,Maharashtra,Inactive,2026-07-24 20:40:15.009643,Surgeon
+75,Provider 75,Orthopedics,75,LIC-00075,Pune,Maharashtra,Active,2026-07-23 20:40:15.009643,Nurse Practitioner
+76,Provider 76,Pediatrics,76,LIC-00076,Hyderabad,Telangana,Inactive,2026-07-22 20:40:15.010204,Physician Assistant
+77,Provider 77,General Medicine,77,LIC-00077,Bangalore,Karnataka,Active,2026-07-21 20:40:15.010714,Physician
+78,Provider 78,Oncology,78,LIC-00078,Chennai,Tamil Nadu,Inactive,2026-07-20 20:40:15.010714,Surgeon
+79,Provider 79,Cardiology,79,LIC-00079,Mumbai,Maharashtra,Active,2026-07-19 20:40:15.011740,
+80,Provider 80,Neurology,80,LIC-00080,Pune,Maharashtra,Inactive,2026-07-18 20:40:15.011740,Physician Assistant
+81,Provider 81,Orthopedics,81,LIC-00081,Hyderabad,Telangana,Active,2026-07-17 20:40:15.012726,Physician
+82,Provider 82,Pediatrics,82,LIC-00082,Bangalore,Karnataka,Inactive,2026-07-16 20:40:15.012726,Surgeon
+83,Provider 83,General Medicine,83,LIC-00083,Chennai,Tamil Nadu,Active,2026-07-15 20:40:15.012726,Nurse Practitioner
+84,Provider 84,Oncology,84,LIC-00084,Mumbai,Maharashtra,Inactive,2026-07-14 20:40:15.012726,Physician Assistant
+85,Provider 85,Cardiology,85,LIC-00085,Pune,Maharashtra,Active,2026-07-13 20:40:15.012726,Physician
+86,Provider 86,Neurology,86,LIC-00086,Hyderabad,Telangana,Inactive,2026-07-12 20:40:15.014288,Surgeon
+87,Provider 87,Orthopedics,87,LIC-00087,Bangalore,Karnataka,Active,2026-07-11 20:40:15.014288,Nurse Practitioner
+88,Provider 88,Pediatrics,88,LIC-00088,Chennai,Tamil Nadu,Inactive,2026-07-10 20:40:15.015625,Physician Assistant
+89,Provider 89,General Medicine,89,LIC-00089,Mumbai,Maharashtra,,2026-07-09 20:40:15.016119,Physician
+90,Provider 90,Oncology,90,LIC-00090,Pune,Maharashtra,Inactive,2026-07-08 20:40:15.016119,Surgeon
+91,Provider 91,Cardiology,91,LIC-00091,Hyderabad,Telangana,Active,2026-07-07 20:40:15.017140,Nurse Practitioner
+92,Provider 92,Neurology,92,LIC-00092,Bangalore,Karnataka,Inactive,2026-07-06 20:40:15.017140,Physician Assistant
+93,Provider 93,Orthopedics,93,LIC-00093,Chennai,Tamil Nadu,Active,2026-07-05 20:40:15.017140,Physician
+94,Provider 94,Pediatrics,94,LIC-00094,Mumbai,Maharashtra,Inactive,2026-07-04 20:40:15.018135,Surgeon
+95,Provider 95,General Medicine,95,LIC-00095,Pune,Maharashtra,Active,2026-07-03 20:40:15.018135,Nurse Practitioner
+96,Provider 96,Oncology,96,LIC-00096,Hyderabad,Telangana,Inactive,2026-07-02 20:40:15.018135,Physician Assistant
+97,Provider 97,,97,LIC-00097,Bangalore,Karnataka,Active,2026-07-01 20:40:15.019654,Physician
+98,Provider 98,Neurology,98,LIC-00098,Chennai,Tamil Nadu,Inactive,2026-06-30 20:40:15.019654,Surgeon
+99,Provider 99,Orthopedics,99,LIC-00099,Mumbai,Maharashtra,Active,2026-06-29 20:40:15.020668,Nurse Practitioner
+100,Provider 100,Pediatrics,100,LIC-00100,Pune,Maharashtra,Inactive,2026-06-28 20:40:15.020668,Physician Assistant
+101,Provider 101,General Medicine,,LIC-00101,Hyderabad,Telangana,Active,2026-06-27 20:40:15.020668,Physician
+102,Provider 102,Oncology,2,LIC-00102,Bangalore,Karnataka,Inactive,2026-06-26 20:40:15.021731,Surgeon
+103,Provider 103,Cardiology,3,LIC-00103,Chennai,Tamil Nadu,Active,2026-06-25 20:40:15.022106,Nurse Practitioner
+104,Provider 104,Neurology,4,LIC-00104,Mumbai,Maharashtra,Inactive,2026-06-24 20:40:15.022723,Physician Assistant
+105,Provider 105,Orthopedics,5,LIC-00105,Pune,Maharashtra,Active,2026-06-23 20:40:15.022723,Physician
+106,Provider 106,Pediatrics,6,LIC-00106,Hyderabad,Telangana,Inactive,2026-06-22 20:40:15.022723,Surgeon
+107,Provider 107,General Medicine,7,LIC-00107,Bangalore,Karnataka,Active,,Nurse Practitioner
+108,Provider 108,Oncology,8,LIC-00108,Chennai,Tamil Nadu,Inactive,2026-06-20 20:40:15.024247,Physician Assistant
+109,Provider 109,Cardiology,9,LIC-00109,Mumbai,Maharashtra,Active,2026-06-19 20:40:15.024247,Physician
+110,Provider 110,Neurology,10,LIC-00110,Pune,Maharashtra,Inactive,2026-06-18 20:40:15.024247,Surgeon
+111,Provider 111,Orthopedics,11,LIC-00111,Hyderabad,Telangana,Active,2026-06-17 20:40:15.025262,Nurse Practitioner
+112,Provider 112,Pediatrics,12,LIC-00112,Bangalore,Karnataka,Inactive,2026-06-16 20:40:15.025262,Physician Assistant
+113,Provider 113,General Medicine,13,LIC-00113,Chennai,Tamil Nadu,Active,2026-06-15 20:40:15.026266,UNKNOWN
+114,Provider 114,Oncology,14,LIC-00114,Mumbai,Maharashtra,Inactive,2026-06-14 20:40:15.026266,Surgeon
+115,Provider 115,Cardiology,15,LIC-00115,Pune,Maharashtra,Active,2026-06-13 20:40:15.027268,Nurse Practitioner
+116,Provider 116,Neurology,16,LIC-00116,Hyderabad,Telangana,Inactive,2026-06-12 20:40:15.027268,Physician Assistant
+117,Provider 117,Orthopedics,17,LIC-00117,Bangalore,Karnataka,Active,2026-06-11 20:40:15.027268,Physician
+118,Provider 118,Pediatrics,18,LIC-00118,Chennai,Tamil Nadu,UNKNOWN,2026-06-10 20:40:15.028262,Surgeon
+119,Provider 119,General Medicine,19,LIC-00119,Mumbai,Maharashtra,Active,2026-06-09 20:40:15.028262,Nurse Practitioner
+120,Provider 120,Oncology,20,LIC-00120,Pune,Maharashtra,Inactive,2026-06-08 20:40:15.028262,Physician Assistant
+121,Provider 121,Cardiology,21,LIC-00121,Hyderabad,Telangana,Active,2026-06-07 20:40:15.028262,Physician
+122,Provider 122,UNKNOWN,22,LIC-00122,Bangalore,Karnataka,Inactive,2026-06-06 20:40:15.029772,Surgeon
+123,Provider 123,Orthopedics,23,LIC-00123,Chennai,Tamil Nadu,Active,2026-06-05 20:40:15.030306,Nurse Practitioner
+124,Provider 124,Pediatrics,24,LIC-00124,Mumbai,Maharashtra,Inactive,2026-06-04 20:40:15.030306,Physician Assistant
+125,Provider 125,General Medicine,25,LIC-00125,Pune,Maharashtra,Active,2026-06-03 20:40:15.031317,Physician
+126,Provider 126,Oncology,26,LIC-00126,Hyderabad,Telangana,Inactive,2026-06-02 20:40:15.031317,Surgeon
+127,Provider 127,Cardiology,27,LIC-00127,Bangalore,Karnataka,Active,2026-06-01 20:40:15.031317,Nurse Practitioner
+128,Provider 128,Neurology,28,LIC-00128,Chennai,Tamil Nadu,Inactive,2026-05-31 20:40:15.032332,Physician Assistant
+129,Provider 129,Orthopedics,29,LIC-00129,Mumbai,Maharashtra,Active,2026-05-30 20:40:15.032332,Physician
+130,Provider 130,Pediatrics,30,LIC-00130,Pune,Maharashtra,Inactive,2026-05-29 20:40:15.033321,Surgeon
+131,Provider 131,General Medicine,31,LIC-00131,Hyderabad,Telangana,Active,2026-05-28 20:40:15.033321,Nurse Practitioner
+132,Provider 132,Oncology,32,LIC-00132,Bangalore,Karnataka,Inactive,2026-05-27 20:40:15.034331,Physician Assistant
+133,Provider 133,Cardiology,33,LIC-00133,Chennai,Tamil Nadu,Active,2026-05-26 20:40:15.034331,Physician
+134,Provider 134,Neurology,9999,LIC-00134,Mumbai,Maharashtra,Inactive,2026-05-25 20:40:15.034331,Surgeon
+135,Provider 135,Orthopedics,35,LIC-00135,Pune,Maharashtra,Active,2026-05-24 20:40:15.035330,Nurse Practitioner
+136,Provider 136,Pediatrics,36,LIC-00136,Hyderabad,Telangana,Inactive,2026-05-23 20:40:15.035330,Physician Assistant
+137,Provider 137,General Medicine,37,LIC-00137,Bangalore,Karnataka,Active,2026-05-22 20:40:15.036365,Physician
+138,Provider 138,Oncology,38,LIC-00138,Chennai,Tamil Nadu,Inactive,2026-05-21 20:40:15.036365,Surgeon
+139,Provider 139,Cardiology,39,LIC-00139,Mumbai,Maharashtra,Active,2026-05-20 20:40:15.037365,Nurse Practitioner
+140,Provider 140,Neurology,40,LIC-00140,Pune,Maharashtra,Inactive,2026-05-19 20:40:15.037365,Physician Assistant
+141,Provider 141,Orthopedics,41,LIC-00141,Hyderabad,Telangana,Active,2026-05-18 20:40:15.037365,Physician
+142,,Pediatrics,42,LIC-00142,Bangalore,Karnataka,Inactive,2026-05-17 20:40:15.038362,Surgeon
+143,Provider 143,General Medicine,43,LIC-00143,Chennai,Tamil Nadu,Active,2026-05-16 20:40:15.038362,Nurse Practitioner
+144,Provider 144,Oncology,44,LIC-00144,Mumbai,Maharashtra,Inactive,2026-05-15 20:40:15.038362,Physician Assistant
+145,Provider 145,Cardiology,45,LIC-00145,Pune,Maharashtra,Active,2026-05-14 20:40:15.038362,Physician
+146,Provider 146,Neurology,46,,Hyderabad,Telangana,Inactive,2026-05-13 20:40:15.039879,Surgeon
+147,Provider 147,Orthopedics,47,LIC-00147,Bangalore,Karnataka,Active,2026-05-12 20:40:15.040407,Nurse Practitioner
+148,Provider 148,Pediatrics,48,LIC-00148,Chennai,Tamil Nadu,Inactive,2026-05-11 20:40:15.040407,Physician Assistant
+149,Provider 149,General Medicine,49,LIC-00149,Mumbai,Maharashtra,Active,2026-05-10 20:40:15.040407,Physician
+150,Provider 150,Oncology,50,LIC-00150,Pune,Maharashtra,Inactive,2026-05-09 20:40:15.040407,Surgeon
+151,Provider 151,Cardiology,51,LIC-00151,Hyderabad,Telangana,Active,2026-05-08 20:40:15.041441,Nurse Practitioner
+152,Provider 152,Neurology,52,LIC-00152,Bangalore,Karnataka,Inactive,2026-05-07 20:40:15.041840,Physician Assistant
+153,Provider 153,Orthopedics,53,LIC-00153,Chennai,Tamil Nadu,Active,2026-05-06 20:40:15.041840,Physician
+154,Provider 154,Pediatrics,54,LIC-00154,Mumbai,Maharashtra,Inactive,2026-05-05 20:40:15.042914,Surgeon
+155,Provider 155,General Medicine,55,LIC-00155,Pune,Maharashtra,Active,2026-05-04 20:40:15.042914,Nurse Practitioner
+156,Provider 156,Oncology,56,LIC-00156,Hyderabad,Telangana,Inactive,2026-05-03 20:40:15.042914,Physician Assistant
+157,Provider 157,Cardiology,57,LIC-00157,Bangalore,Karnataka,Active,2026-05-02 20:40:15.042914,Physician
+158,Provider 158,Neurology,58,LIC-00158,Chennai,Tamil Nadu,Inactive,2026-05-01 20:40:15.044148,
+159,Provider 159,Orthopedics,59,LIC-00159,Mumbai,Maharashtra,Active,2026-04-30 20:40:15.044148,Nurse Practitioner
+160,Provider 160,Pediatrics,60,LIC-00160,Pune,Maharashtra,Inactive,2026-04-29 20:40:15.044148,Physician Assistant
+161,Provider 161,General Medicine,61,LIC-00161,Hyderabad,Telangana,Active,2026-04-28 20:40:15.044148,Physician
+162,Provider 162,Oncology,62,LIC-00162,Bangalore,Karnataka,Inactive,2026-04-27 20:40:15.044148,Surgeon
+163,Provider 163,Cardiology,63,LIC-00163,Chennai,Tamil Nadu,Active,2026-04-26 20:40:15.045780,Nurse Practitioner
+164,Provider 164,Neurology,64,LIC-00164,Mumbai,Maharashtra,Inactive,2026-04-25 20:40:15.046269,Physician Assistant
+165,Provider 165,Orthopedics,65,LIC-00165,Pune,Maharashtra,Active,2026-04-24 20:40:15.046569,Physician
+166,Provider 166,Pediatrics,66,LIC-00166,Hyderabad,Telangana,Inactive,2026-04-23 20:40:15.046810,Surgeon
+167,Provider 167,General Medicine,67,LIC-00167,Bangalore,Karnataka,Active,2026-04-22 20:40:15.046810,Nurse Practitioner
+168,Provider 168,Oncology,68,LIC-00168,Chennai,Tamil Nadu,Inactive,2026-04-21 20:40:15.046810,Physician Assistant
+169,Provider 169,Cardiology,69,LIC-00169,Mumbai,Maharashtra,Active,2026-04-20 20:40:15.046810,Physician
+170,Provider 170,Neurology,70,LIC-00170,Pune,Maharashtra,Inactive,2026-04-19 20:40:15.047937,Surgeon
+171,Provider 171,Orthopedics,71,LIC-00171,Hyderabad,Telangana,Active,2026-04-18 20:40:15.047937,Nurse Practitioner
+172,Provider 172,Pediatrics,72,LIC-00172,Bangalore,Karnataka,Inactive,2026-04-17 20:40:15.047937,Physician Assistant
+173,Provider 173,General Medicine,73,LIC-00173,Chennai,Tamil Nadu,Active,2026-04-16 20:40:15.048936,Physician
+174,Provider 174,Oncology,74,LIC-00174,Mumbai,Maharashtra,Inactive,2026-04-15 20:40:15.048936,Surgeon
+175,Provider 175,Cardiology,75,LIC-00175,Pune,Maharashtra,Active,2026-04-14 20:40:15.048936,Nurse Practitioner
+176,Provider 176,Neurology,76,LIC-00176,Hyderabad,Telangana,Inactive,2026-04-13 20:40:15.048936,Physician Assistant
+177,Provider 177,Orthopedics,77,LIC-00177,Bangalore,Karnataka,UNKNOWN,2026-04-12 20:40:15.049936,Physician
+178,Provider 178,Pediatrics,78,LIC-00178,Chennai,Tamil Nadu,,2026-04-11 20:40:15.050449,Surgeon
+179,Provider 179,General Medicine,79,LIC-00179,Mumbai,Maharashtra,Active,2026-04-10 20:40:15.050449,Nurse Practitioner
+180,Provider 180,Oncology,80,LIC-00180,Pune,Maharashtra,Inactive,2026-04-09 20:40:15.051515,Physician Assistant
+181,Provider 181,Cardiology,81,LIC-00181,Hyderabad,Telangana,Active,2026-04-08 20:40:15.052466,Physician
+182,Provider 182,Neurology,82,LIC-00182,Bangalore,Karnataka,Inactive,2026-04-07 20:40:15.052466,Surgeon
+183,Provider 183,UNKNOWN,83,LIC-00183,Chennai,Tamil Nadu,Active,2026-04-06 20:40:15.053464,Nurse Practitioner
+184,Provider 184,Pediatrics,84,LIC-00184,Mumbai,Maharashtra,Inactive,2026-04-05 20:40:15.053464,Physician Assistant
+185,Provider 185,General Medicine,85,LIC-00185,Pune,Maharashtra,Active,2026-04-04 20:40:15.054467,Physician
+186,Provider 186,Oncology,86,LIC-00186,Hyderabad,Telangana,Inactive,2026-04-03 20:40:15.054467,Surgeon
+187,Provider 187,Cardiology,87,LIC-00187,Bangalore,Karnataka,Active,2026-04-02 20:40:15.055471,Nurse Practitioner
+188,Provider 188,Neurology,88,LIC-00188,Chennai,Tamil Nadu,Inactive,2026-04-01 20:40:15.055471,Physician Assistant
+189,Provider 189,Orthopedics,89,LIC-00189,Mumbai,Maharashtra,Active,2026-03-31 20:40:15.056482,Physician
+190,Provider 190,Pediatrics,90,LIC-00190,Pune,Maharashtra,Inactive,2026-03-30 20:40:15.056482,Surgeon
+191,Provider 191,General Medicine,91,LIC-00191,Hyderabad,Telangana,Active,2026-03-29 20:40:15.057468,Nurse Practitioner
+192,Provider 192,Oncology,92,LIC-00192,Bangalore,Karnataka,Inactive,2026-03-28 20:40:15.057468,Physician Assistant
+193,Provider 193,Cardiology,93,LIC-00193,Chennai,Tamil Nadu,Active,2026-03-27 20:40:15.058471,Physician
+194,Provider 194,,94,LIC-00194,Mumbai,Maharashtra,Inactive,2026-03-26 20:40:15.058471,Surgeon
+195,Provider 195,Orthopedics,95,LIC-00195,Pune,Maharashtra,Active,2026-03-25 20:40:15.059988,Nurse Practitioner
+196,Provider 196,Pediatrics,96,LIC-00196,Hyderabad,Telangana,Inactive,2026-03-24 20:40:15.060577,Physician Assistant
+197,Provider 197,General Medicine,97,LIC-00197,Bangalore,Karnataka,Active,2026-03-23 20:40:15.060577,Physician
+198,Provider 198,Oncology,98,LIC-00198,Chennai,Tamil Nadu,Inactive,2026-03-22 20:40:15.061705,Surgeon
+199,Provider 199,Cardiology,99,LIC-00199,Mumbai,Maharashtra,Active,2026-03-21 20:40:15.061705,Nurse Practitioner
+200,Provider 200,Neurology,100,LIC-00200,Pune,Maharashtra,Inactive,2026-03-20 20:40:15.062704,Physician Assistant
+201,Provider 201,Orthopedics,9999,LIC-00201,Hyderabad,Telangana,Active,2026-03-19 20:40:15.062704,Physician
+202,Provider 202,Pediatrics,,LIC-00202,Bangalore,Karnataka,Inactive,2026-03-18 20:40:15.063704,Surgeon
+203,Provider 203,General Medicine,3,LIC-00203,Chennai,Tamil Nadu,Active,2026-03-17 20:40:15.063704,Nurse Practitioner
+204,Provider 204,Oncology,4,LIC-00204,Mumbai,Maharashtra,Inactive,2026-03-16 20:40:15.063704,Physician Assistant
+205,Provider 205,Cardiology,5,LIC-00205,Pune,Maharashtra,Active,2026-03-15 20:40:15.064700,Physician
+206,Provider 206,Neurology,6,LIC-00206,Hyderabad,Telangana,Inactive,2026-03-14 20:40:15.064700,Surgeon
+207,Provider 207,Orthopedics,7,LIC-00207,Bangalore,Karnataka,Active,2026-03-13 20:40:15.064700,Nurse Practitioner
+208,Provider 208,Pediatrics,8,LIC-00208,Chennai,Tamil Nadu,Inactive,2026-03-12 20:40:15.065710,Physician Assistant
+209,Provider 209,General Medicine,9,LIC-00209,Mumbai,Maharashtra,Active,2026-03-11 20:40:15.065710,Physician
+210,Provider 210,Oncology,10,LIC-00210,Pune,Maharashtra,Inactive,2026-03-10 20:40:15.066510,Surgeon
+211,Provider 211,Cardiology,11,LIC-00211,Hyderabad,Telangana,Active,2026-03-09 20:40:15.067057,Nurse Practitioner
+212,Provider 212,Neurology,12,LIC-00212,Bangalore,Karnataka,Inactive,2026-03-08 20:40:15.067580,Physician Assistant
+213,,Orthopedics,13,LIC-00213,Chennai,Tamil Nadu,Active,2026-03-07 20:40:15.067580,Physician
+214,Provider 214,Pediatrics,14,LIC-00214,Mumbai,Maharashtra,Inactive,,Surgeon
+215,Provider 215,General Medicine,15,LIC-00215,Pune,Maharashtra,Active,2026-03-05 20:40:15.068602,Nurse Practitioner
+216,Provider 216,Oncology,16,LIC-00216,Hyderabad,Telangana,Inactive,2026-03-04 20:40:15.069592,Physician Assistant
+217,Provider 217,Cardiology,17,LIC-00217,Bangalore,Karnataka,Active,2026-03-03 20:40:15.069592,Physician
+218,Provider 218,Neurology,18,LIC-00218,Chennai,Tamil Nadu,Inactive,2026-03-02 20:40:15.069592,Surgeon
+219,Provider 219,Orthopedics,19,,Mumbai,Maharashtra,Active,2026-03-01 20:40:15.070869,Nurse Practitioner
+220,Provider 220,Pediatrics,20,LIC-00220,Pune,Maharashtra,Inactive,2026-02-28 20:40:15.070869,Physician Assistant
+221,Provider 221,General Medicine,21,LIC-00221,Hyderabad,Telangana,Active,2026-02-27 20:40:15.070869,Physician
+222,Provider 222,Oncology,22,LIC-00222,Bangalore,Karnataka,Inactive,2026-02-26 20:40:15.072320,Surgeon
+223,Provider 223,Cardiology,23,LIC-00223,Chennai,Tamil Nadu,Active,2026-02-25 20:40:15.072320,Nurse Practitioner
+224,Provider 224,Neurology,24,LIC-00224,Mumbai,Maharashtra,Inactive,2026-02-24 20:40:15.073318,Physician Assistant
+225,Provider 225,Orthopedics,25,LIC-00225,Pune,Maharashtra,Active,2026-02-23 20:40:15.073318,Physician
+226,Provider 226,Pediatrics,26,LIC-00226,Hyderabad,Telangana,Inactive,2026-02-22 20:40:15.073318,UNKNOWN
+227,Provider 227,General Medicine,27,LIC-00227,Bangalore,Karnataka,Active,2026-02-21 20:40:15.074320,Nurse Practitioner
+228,Provider 228,Oncology,28,LIC-00228,Chennai,Tamil Nadu,Inactive,2026-02-20 20:40:15.074320,Physician Assistant
+229,Provider 229,Cardiology,29,LIC-00229,Mumbai,Maharashtra,Active,2026-02-19 20:40:15.074320,Physician
+230,Provider 230,Neurology,30,LIC-00230,Pune,Maharashtra,Inactive,2026-02-18 20:40:15.075359,Surgeon
+231,Provider 231,Orthopedics,31,LIC-00231,Hyderabad,Telangana,Active,2026-02-17 20:40:15.075359,Nurse Practitioner
+232,Provider 232,Pediatrics,32,LIC-00232,Bangalore,Karnataka,Inactive,2026-02-16 20:40:15.076320,Physician Assistant
+233,Provider 233,General Medicine,33,LIC-00233,Chennai,Tamil Nadu,Active,2026-02-15 20:40:15.076320,Physician
+234,Provider 234,Oncology,34,LIC-00234,Mumbai,Maharashtra,Inactive,2026-02-14 20:40:15.077320,Surgeon
+235,Provider 235,Cardiology,35,LIC-00235,Pune,Maharashtra,Active,2026-02-13 20:40:15.077320,Nurse Practitioner
+236,Provider 236,Neurology,36,LIC-00236,Hyderabad,Telangana,UNKNOWN,2026-02-12 20:40:15.077320,Physician Assistant
+237,Provider 237,Orthopedics,37,LIC-00237,Bangalore,Karnataka,Active,2026-02-11 20:40:15.078318,
+238,Provider 238,Pediatrics,38,LIC-00238,Chennai,Tamil Nadu,Inactive,2026-02-10 20:40:15.078318,Surgeon
+239,Provider 239,General Medicine,39,LIC-00239,Mumbai,Maharashtra,Active,2026-02-09 20:40:15.078318,Nurse Practitioner
+240,Provider 240,Oncology,40,LIC-00240,Pune,Maharashtra,Inactive,2026-02-08 20:40:15.079838,Physician Assistant
+241,Provider 241,Cardiology,41,LIC-00241,Hyderabad,Telangana,Active,2026-02-07 20:40:15.080384,Physician
+242,Provider 242,Neurology,42,LIC-00242,Bangalore,Karnataka,Inactive,2026-02-06 20:40:15.080384,Surgeon
+243,Provider 243,Orthopedics,43,LIC-00243,Chennai,Tamil Nadu,Active,2026-02-05 20:40:15.080384,Nurse Practitioner
+244,Provider 244,UNKNOWN,44,LIC-00244,Mumbai,Maharashtra,Inactive,2026-02-04 20:40:15.080384,Physician Assistant
+245,Provider 245,General Medicine,45,LIC-00245,Pune,Maharashtra,Active,2026-02-03 20:40:15.081679,Physician
+246,Provider 246,Oncology,46,LIC-00246,Hyderabad,Telangana,Inactive,2026-02-02 20:40:15.081679,Surgeon
+247,Provider 247,Cardiology,47,LIC-00247,Bangalore,Karnataka,Active,2026-02-01 20:40:15.082268,Nurse Practitioner
+248,Provider 248,Neurology,48,LIC-00248,Chennai,Tamil Nadu,Inactive,2026-01-31 20:40:15.082268,Physician Assistant
+249,Provider 249,Orthopedics,49,LIC-00249,Mumbai,Maharashtra,Active,2026-01-30 20:40:15.083282,Physician
+250,Provider 250,Pediatrics,50,LIC-00250,Pune,Maharashtra,Inactive,2026-01-29 20:40:15.083282,Surgeon
+251,Provider 251,General Medicine,51,LIC-00251,Hyderabad,Telangana,Active,2026-01-28 20:40:15.084330,Nurse Practitioner
+252,Provider 252,Oncology,52,LIC-00252,Bangalore,Karnataka,Inactive,2026-01-27 20:40:15.084330,Physician Assistant
+253,Provider 253,Cardiology,53,LIC-00253,Chennai,Tamil Nadu,Active,2026-01-26 20:40:15.084330,Physician
+254,Provider 254,Neurology,54,LIC-00254,Mumbai,Maharashtra,Inactive,2026-01-25 20:40:15.085727,Surgeon
+255,Provider 255,Orthopedics,55,LIC-00255,Pune,Maharashtra,Active,2026-01-24 20:40:15.086228,Nurse Practitioner
+256,Provider 256,Pediatrics,56,LIC-00256,Hyderabad,Telangana,Inactive,2026-01-23 20:40:15.086228,Physician Assistant
+257,Provider 257,General Medicine,57,LIC-00257,Bangalore,Karnataka,Active,2026-01-22 20:40:15.087254,Physician
+258,Provider 258,Oncology,58,LIC-00258,Chennai,Tamil Nadu,Inactive,2026-01-21 20:40:15.087254,Surgeon
+259,Provider 259,Cardiology,59,LIC-00259,Mumbai,Maharashtra,Active,2026-01-20 20:40:15.088246,Nurse Practitioner
+260,Provider 260,Neurology,60,LIC-00260,Pune,Maharashtra,Inactive,2026-01-19 20:40:15.088246,Physician Assistant
+261,Provider 261,Orthopedics,61,LIC-00261,Hyderabad,Telangana,Active,2026-01-18 20:40:15.088246,Physician
+262,Provider 262,Pediatrics,62,LIC-00262,Bangalore,Karnataka,Inactive,2026-01-17 20:40:15.089762,Surgeon
+263,Provider 263,General Medicine,63,LIC-00263,Chennai,Tamil Nadu,Active,2026-01-16 20:40:15.089762,Nurse Practitioner
+264,Provider 264,Oncology,64,LIC-00264,Mumbai,Maharashtra,Inactive,2026-01-15 20:40:15.090379,Physician Assistant
+265,Provider 265,Cardiology,65,LIC-00265,Pune,Maharashtra,Active,2026-01-14 20:40:15.090379,Physician
+266,Provider 266,Neurology,66,LIC-00266,Hyderabad,Telangana,Inactive,2026-01-13 20:40:15.090379,Surgeon
+267,Provider 267,Orthopedics,67,LIC-00267,Bangalore,Karnataka,,2026-01-12 20:40:15.091658,Nurse Practitioner
+268,Provider 268,Pediatrics,9999,LIC-00268,Chennai,Tamil Nadu,Inactive,2026-01-11 20:40:15.092599,Physician Assistant
+269,Provider 269,General Medicine,69,LIC-00269,Mumbai,Maharashtra,Active,2026-01-10 20:40:15.092599,Physician
+270,Provider 270,Oncology,70,LIC-00270,Pune,Maharashtra,Inactive,2026-01-09 20:40:15.093600,Surgeon
+271,Provider 271,Cardiology,71,LIC-00271,Hyderabad,Telangana,Active,2026-01-08 20:40:15.093600,Nurse Practitioner
+272,Provider 272,Neurology,72,LIC-00272,Bangalore,Karnataka,Inactive,2026-01-07 20:40:15.094604,Physician Assistant
+273,Provider 273,Orthopedics,73,LIC-00273,Chennai,Tamil Nadu,Active,2026-01-06 20:40:15.094604,Physician
+274,Provider 274,Pediatrics,74,LIC-00274,Mumbai,Maharashtra,Inactive,2026-01-05 20:40:15.095602,Surgeon
+275,Provider 275,General Medicine,75,LIC-00275,Pune,Maharashtra,Active,2026-01-04 20:40:15.095602,Nurse Practitioner
+276,Provider 276,Oncology,76,LIC-00276,Hyderabad,Telangana,Inactive,2026-01-03 20:40:15.096598,Physician Assistant
+277,Provider 277,Cardiology,77,LIC-00277,Bangalore,Karnataka,Active,2026-01-02 20:40:15.096598,Physician
+278,Provider 278,Neurology,78,LIC-00278,Chennai,Tamil Nadu,Inactive,2026-01-01 20:40:15.097599,Surgeon
+279,Provider 279,Orthopedics,79,LIC-00279,Mumbai,Maharashtra,Active,2025-12-31 20:40:15.097599,Nurse Practitioner
+280,Provider 280,Pediatrics,80,LIC-00280,Pune,Maharashtra,Inactive,2025-12-30 20:40:15.098599,Physician Assistant
+281,Provider 281,General Medicine,81,LIC-00281,Hyderabad,Telangana,Active,2025-12-29 20:40:15.098599,Physician
+282,Provider 282,Oncology,82,LIC-00282,Bangalore,Karnataka,Inactive,2025-12-28 20:40:15.099599,Surgeon
+283,Provider 283,Cardiology,83,LIC-00283,Chennai,Tamil Nadu,Active,2025-12-27 20:40:15.099599,Nurse Practitioner
+284,,Neurology,84,LIC-00284,Mumbai,Maharashtra,Inactive,2025-12-26 20:40:15.099599,Physician Assistant
+285,Provider 285,Orthopedics,85,LIC-00285,Pune,Maharashtra,Active,2025-12-25 20:40:15.101024,Physician
+286,Provider 286,Pediatrics,86,LIC-00286,Hyderabad,Telangana,Inactive,2025-12-24 20:40:15.101024,Surgeon
+287,Provider 287,General Medicine,87,LIC-00287,Bangalore,Karnataka,Active,2025-12-23 20:40:15.102041,Nurse Practitioner
+288,Provider 288,Oncology,88,LIC-00288,Chennai,Tamil Nadu,Inactive,2025-12-22 20:40:15.102041,Physician Assistant
+289,Provider 289,Cardiology,89,LIC-00289,Mumbai,Maharashtra,Active,2025-12-21 20:40:15.102863,Physician
+290,Provider 290,Neurology,90,LIC-00290,Pune,Maharashtra,Inactive,2025-12-20 20:40:15.103330,Surgeon
+291,Provider 291,,91,LIC-00291,Hyderabad,Telangana,Active,2025-12-19 20:40:15.103330,Nurse Practitioner
+292,Provider 292,Pediatrics,92,,Bangalore,Karnataka,Inactive,2025-12-18 20:40:15.104344,Physician Assistant
+293,Provider 293,General Medicine,93,LIC-00293,Chennai,Tamil Nadu,Active,2025-12-17 20:40:15.104344,Physician
+294,Provider 294,Oncology,94,LIC-00294,Mumbai,Maharashtra,Inactive,2025-12-16 20:40:15.105363,Surgeon
+295,Provider 295,Cardiology,95,LIC-00295,Pune,Maharashtra,UNKNOWN,2025-12-15 20:40:15.105363,Nurse Practitioner
+296,Provider 296,Neurology,96,LIC-00296,Hyderabad,Telangana,Inactive,2025-12-14 20:40:15.106364,Physician Assistant
+297,Provider 297,Orthopedics,97,LIC-00297,Bangalore,Karnataka,Active,2025-12-13 20:40:15.107368,Physician
+298,Provider 298,Pediatrics,98,LIC-00298,Chennai,Tamil Nadu,Inactive,2025-12-12 20:40:15.107368,Surgeon
+299,Provider 299,General Medicine,99,LIC-00299,Mumbai,Maharashtra,Active,2025-12-11 20:40:15.108368,Nurse Practitioner
+300,Provider 300,Oncology,100,LIC-00300,Pune,Maharashtra,Inactive,2025-12-10 20:40:15.108368,Physician Assistant
+301,Provider 301,Cardiology,1,LIC-00301,Hyderabad,Telangana,Active,2025-12-09 20:40:15.108368,Physician
+302,Provider 302,Neurology,2,LIC-00302,Bangalore,Karnataka,Inactive,2025-12-08 20:40:15.109886,Surgeon
+303,Provider 303,Orthopedics,,LIC-00303,Chennai,Tamil Nadu,Active,2025-12-07 20:40:15.110420,Nurse Practitioner
+304,Provider 304,Pediatrics,4,LIC-00304,Mumbai,Maharashtra,Inactive,2025-12-06 20:40:15.110420,Physician Assistant
+305,Provider 305,UNKNOWN,5,LIC-00305,Pune,Maharashtra,Active,2025-12-05 20:40:15.111435,Physician
+306,Provider 306,Oncology,6,LIC-00306,Hyderabad,Telangana,Inactive,2025-12-04 20:40:15.111435,Surgeon
+307,Provider 307,Cardiology,7,LIC-00307,Bangalore,Karnataka,Active,2025-12-03 20:40:15.112442,Nurse Practitioner
+308,Provider 308,Neurology,8,LIC-00308,Chennai,Tamil Nadu,Inactive,2025-12-02 20:40:15.112442,Physician Assistant
+309,Provider 309,Orthopedics,9,LIC-00309,Mumbai,Maharashtra,Active,2025-12-01 20:40:15.112442,Physician
+310,Provider 310,Pediatrics,10,LIC-00310,Pune,Maharashtra,Inactive,2025-11-30 20:40:15.113480,Surgeon
+311,Provider 311,General Medicine,11,LIC-00311,Hyderabad,Telangana,Active,2025-11-29 20:40:15.113480,Nurse Practitioner
+312,Provider 312,Oncology,12,LIC-00312,Bangalore,Karnataka,Inactive,2025-11-28 20:40:15.114163,Physician Assistant
+313,Provider 313,Cardiology,13,LIC-00313,Chennai,Tamil Nadu,Active,2025-11-27 20:40:15.114163,Physician
+314,Provider 314,Neurology,14,LIC-00314,Mumbai,Maharashtra,Inactive,2025-11-26 20:40:15.115185,Surgeon
+315,Provider 315,Orthopedics,15,LIC-00315,Pune,Maharashtra,Active,2025-11-25 20:40:15.115185,Nurse Practitioner
+316,Provider 316,Pediatrics,16,LIC-00316,Hyderabad,Telangana,Inactive,2025-11-24 20:40:15.116176,
+317,Provider 317,General Medicine,17,LIC-00317,Bangalore,Karnataka,Active,2025-11-23 20:40:15.116176,Physician
+318,Provider 318,Oncology,18,LIC-00318,Chennai,Tamil Nadu,Inactive,2025-11-22 20:40:15.116176,Surgeon
+319,Provider 319,Cardiology,19,LIC-00319,Mumbai,Maharashtra,Active,2025-11-21 20:40:15.117237,Nurse Practitioner
+320,Provider 320,Neurology,20,LIC-00320,Pune,Maharashtra,Inactive,2025-11-20 20:40:15.117237,Physician Assistant
+321,Provider 321,Orthopedics,21,LIC-00321,Hyderabad,Telangana,Active,,Physician
+322,Provider 322,Pediatrics,22,LIC-00322,Bangalore,Karnataka,Inactive,2025-11-18 20:40:15.118237,Surgeon
+323,Provider 323,General Medicine,23,LIC-00323,Chennai,Tamil Nadu,Active,2025-11-17 20:40:15.118237,Nurse Practitioner
+324,Provider 324,Oncology,24,LIC-00324,Mumbai,Maharashtra,Inactive,2025-11-16 20:40:15.119808,Physician Assistant
+325,Provider 325,Cardiology,25,LIC-00325,Pune,Maharashtra,Active,2025-11-15 20:40:15.120397,Physician
+326,Provider 326,Neurology,26,LIC-00326,Hyderabad,Telangana,Inactive,2025-11-14 20:40:15.120397,Surgeon
+327,Provider 327,Orthopedics,27,LIC-00327,Bangalore,Karnataka,Active,2025-11-13 20:40:15.120397,Nurse Practitioner
+328,Provider 328,Pediatrics,28,LIC-00328,Chennai,Tamil Nadu,Inactive,2025-11-12 20:40:15.121784,Physician Assistant
+329,Provider 329,General Medicine,29,LIC-00329,Mumbai,Maharashtra,Active,2025-11-11 20:40:15.121784,Physician
+330,Provider 330,Oncology,30,LIC-00330,Pune,Maharashtra,Inactive,2025-11-10 20:40:15.123015,Surgeon
+331,Provider 331,Cardiology,31,LIC-00331,Hyderabad,Telangana,Active,2025-11-09 20:40:15.123015,Nurse Practitioner
+332,Provider 332,Neurology,32,LIC-00332,Bangalore,Karnataka,Inactive,2025-11-08 20:40:15.123015,Physician Assistant
+333,Provider 333,Orthopedics,33,LIC-00333,Chennai,Tamil Nadu,Active,2025-11-07 20:40:15.123015,Physician
+334,Provider 334,Pediatrics,34,LIC-00334,Mumbai,Maharashtra,Inactive,2025-11-06 20:40:15.123015,Surgeon
+335,Provider 335,General Medicine,9999,LIC-00335,Pune,Maharashtra,Active,2025-11-05 20:40:15.124526,Nurse Practitioner
+336,Provider 336,Oncology,36,LIC-00336,Hyderabad,Telangana,Inactive,2025-11-04 20:40:15.124526,Physician Assistant
+337,Provider 337,Cardiology,37,LIC-00337,Bangalore,Karnataka,Active,2025-11-03 20:40:15.124526,Physician
+338,Provider 338,Neurology,38,LIC-00338,Chennai,Tamil Nadu,Inactive,2025-11-02 20:40:15.125537,Surgeon
+339,Provider 339,Orthopedics,39,LIC-00339,Mumbai,Maharashtra,Active,2025-11-01 20:40:15.125537,UNKNOWN
+340,Provider 340,Pediatrics,40,LIC-00340,Pune,Maharashtra,Inactive,2025-10-31 20:40:15.126541,Physician Assistant
+341,Provider 341,General Medicine,41,LIC-00341,Hyderabad,Telangana,Active,2025-10-30 20:40:15.126541,Physician
+342,Provider 342,Oncology,42,LIC-00342,Bangalore,Karnataka,Inactive,2025-10-29 20:40:15.126541,Surgeon
+343,Provider 343,Cardiology,43,LIC-00343,Chennai,Tamil Nadu,Active,2025-10-28 20:40:15.127538,Nurse Practitioner
+344,Provider 344,Neurology,44,LIC-00344,Mumbai,Maharashtra,Inactive,2025-10-27 20:40:15.127538,Physician Assistant
+345,Provider 345,Orthopedics,45,LIC-00345,Pune,Maharashtra,Active,2025-10-26 20:40:15.127538,Physician
+346,Provider 346,Pediatrics,46,LIC-00346,Hyderabad,Telangana,Inactive,2025-10-25 20:40:15.128539,Surgeon
+347,Provider 347,General Medicine,47,LIC-00347,Bangalore,Karnataka,Active,2025-10-24 20:40:15.128539,Nurse Practitioner
+348,Provider 348,Oncology,48,LIC-00348,Chennai,Tamil Nadu,Inactive,2025-10-23 20:40:15.128539,Physician Assistant
+349,Provider 349,Cardiology,49,LIC-00349,Mumbai,Maharashtra,Active,2025-10-22 20:40:15.129542,Physician
+350,Provider 350,Neurology,50,LIC-00350,Pune,Maharashtra,Inactive,2025-10-21 20:40:15.129542,Surgeon
+351,Provider 351,Orthopedics,51,LIC-00351,Hyderabad,Telangana,Active,2025-10-20 20:40:15.129542,Nurse Practitioner
+352,Provider 352,Pediatrics,52,LIC-00352,Bangalore,Karnataka,Inactive,2025-10-19 20:40:15.130616,Physician Assistant
+353,Provider 353,General Medicine,53,LIC-00353,Chennai,Tamil Nadu,Active,2025-10-18 20:40:15.130616,Physician
+354,Provider 354,Oncology,54,LIC-00354,Mumbai,Maharashtra,UNKNOWN,2025-10-17 20:40:15.131692,Surgeon
+355,,Cardiology,55,LIC-00355,Pune,Maharashtra,Active,2025-10-16 20:40:15.132022,Nurse Practitioner
+356,Provider 356,Neurology,56,LIC-00356,Hyderabad,Telangana,,2025-10-15 20:40:15.132566,Physician Assistant
+357,Provider 357,Orthopedics,57,LIC-00357,Bangalore,Karnataka,Active,2025-10-14 20:40:15.132969,Physician
+358,Provider 358,Pediatrics,58,LIC-00358,Chennai,Tamil Nadu,Inactive,2025-10-13 20:40:15.132969,Surgeon
+359,Provider 359,General Medicine,59,LIC-00359,Mumbai,Maharashtra,Active,2025-10-12 20:40:15.133986,Nurse Practitioner
+360,Provider 360,Oncology,60,LIC-00360,Pune,Maharashtra,Inactive,2025-10-11 20:40:15.133986,Physician Assistant
+361,Provider 361,Cardiology,61,LIC-00361,Hyderabad,Telangana,Active,2025-10-10 20:40:15.133986,Physician
+362,Provider 362,Neurology,62,LIC-00362,Bangalore,Karnataka,Inactive,2025-10-09 20:40:15.133986,Surgeon
+363,Provider 363,Orthopedics,63,LIC-00363,Chennai,Tamil Nadu,Active,2025-10-08 20:40:15.134985,Nurse Practitioner
+364,Provider 364,Pediatrics,64,LIC-00364,Mumbai,Maharashtra,Inactive,2025-10-07 20:40:15.134985,Physician Assistant
+365,Provider 365,General Medicine,65,,Pune,Maharashtra,Active,2025-10-06 20:40:15.134985,Physician
+366,Provider 366,UNKNOWN,66,LIC-00366,Hyderabad,Telangana,Inactive,2025-10-05 20:40:15.135986,Surgeon
+367,Provider 367,Cardiology,67,LIC-00367,Bangalore,Karnataka,Active,2025-10-04 20:40:15.135986,Nurse Practitioner
+368,Provider 368,Neurology,68,LIC-00368,Chennai,Tamil Nadu,Inactive,2025-10-03 20:40:15.135986,Physician Assistant
+369,Provider 369,Orthopedics,69,LIC-00369,Mumbai,Maharashtra,Active,2025-10-02 20:40:15.136985,Physician
+370,Provider 370,Pediatrics,70,LIC-00370,Pune,Maharashtra,Inactive,2025-10-01 20:40:15.136985,Surgeon
+371,Provider 371,General Medicine,71,LIC-00371,Hyderabad,Telangana,Active,2025-09-30 20:40:15.137983,Nurse Practitioner
+372,Provider 372,Oncology,72,LIC-00372,Bangalore,Karnataka,Inactive,2025-09-29 20:40:15.137983,Physician Assistant
+373,Provider 373,Cardiology,73,LIC-00373,Chennai,Tamil Nadu,Active,2025-09-28 20:40:15.137983,Physician
+374,Provider 374,Neurology,74,LIC-00374,Mumbai,Maharashtra,Inactive,2025-09-27 20:40:15.137983,Surgeon
+375,Provider 375,Orthopedics,75,LIC-00375,Pune,Maharashtra,Active,2025-09-26 20:40:15.139496,Nurse Practitioner
+376,Provider 376,Pediatrics,76,LIC-00376,Hyderabad,Telangana,Inactive,2025-09-25 20:40:15.139496,Physician Assistant
+377,Provider 377,General Medicine,77,LIC-00377,Bangalore,Karnataka,Active,2025-09-24 20:40:15.140511,Physician
+378,Provider 378,Oncology,78,LIC-00378,Chennai,Tamil Nadu,Inactive,2025-09-23 20:40:15.141024,Surgeon
+379,Provider 379,Cardiology,79,LIC-00379,Mumbai,Maharashtra,Active,2025-09-22 20:40:15.141024,Nurse Practitioner
+380,Provider 380,Neurology,80,LIC-00380,Pune,Maharashtra,Inactive,2025-09-21 20:40:15.141024,Physician Assistant
+381,Provider 381,Orthopedics,81,LIC-00381,Hyderabad,Telangana,Active,2025-09-20 20:40:15.142038,Physician
+382,Provider 382,Pediatrics,82,LIC-00382,Bangalore,Karnataka,Inactive,2025-09-19 20:40:15.142038,Surgeon
+383,Provider 383,General Medicine,83,LIC-00383,Chennai,Tamil Nadu,Active,2025-09-18 20:40:15.143041,Nurse Practitioner
+384,Provider 384,Oncology,84,LIC-00384,Mumbai,Maharashtra,Inactive,2025-09-17 20:40:15.143041,Physician Assistant
+385,Provider 385,Cardiology,85,LIC-00385,Pune,Maharashtra,Active,2025-09-16 20:40:15.143041,Physician
+386,Provider 386,Neurology,86,LIC-00386,Hyderabad,Telangana,Inactive,2025-09-15 20:40:15.143041,Surgeon
+387,Provider 387,Orthopedics,87,LIC-00387,Bangalore,Karnataka,Active,2025-09-14 20:40:15.144553,Nurse Practitioner
+388,Provider 388,,88,LIC-00388,Chennai,Tamil Nadu,Inactive,2025-09-13 20:40:15.144553,Physician Assistant
+389,Provider 389,General Medicine,89,LIC-00389,Mumbai,Maharashtra,Active,2025-09-12 20:40:15.144553,Physician
+390,Provider 390,Oncology,90,LIC-00390,Pune,Maharashtra,Inactive,2025-09-11 20:40:15.144553,Surgeon
+391,Provider 391,Cardiology,91,LIC-00391,Hyderabad,Telangana,Active,2025-09-10 20:40:15.146066,Nurse Practitioner
+392,Provider 392,Neurology,92,LIC-00392,Bangalore,Karnataka,Inactive,2025-09-09 20:40:15.146066,Physician Assistant
+393,Provider 393,Orthopedics,93,LIC-00393,Chennai,Tamil Nadu,Active,2025-09-08 20:40:15.146066,Physician
+394,Provider 394,Pediatrics,94,LIC-00394,Mumbai,Maharashtra,Inactive,2025-09-07 20:40:15.147114,Surgeon
+395,Provider 395,General Medicine,95,LIC-00395,Pune,Maharashtra,Active,2025-09-06 20:40:15.147114,
+396,Provider 396,Oncology,96,LIC-00396,Hyderabad,Telangana,Inactive,2025-09-05 20:40:15.147114,Physician Assistant
+397,Provider 397,Cardiology,97,LIC-00397,Bangalore,Karnataka,Active,2025-09-04 20:40:15.148122,Physician
+398,Provider 398,Neurology,98,LIC-00398,Chennai,Tamil Nadu,Inactive,2025-09-03 20:40:15.148122,Surgeon
+399,Provider 399,Orthopedics,99,LIC-00399,Mumbai,Maharashtra,Active,2025-09-02 20:40:15.148122,Nurse Practitioner
+400,Provider 400,Pediatrics,100,LIC-00400,Pune,Maharashtra,Inactive,2026-10-06 20:40:15.148122,Physician Assistant
+401,Provider 401,General Medicine,1,LIC-00401,Hyderabad,Telangana,Active,2026-10-05 20:40:15.149639,Physician
+402,Provider 402,Oncology,9999,LIC-00402,Bangalore,Karnataka,Inactive,2026-10-04 20:40:15.149639,Surgeon
+403,Provider 403,Cardiology,3,LIC-00403,Chennai,Tamil Nadu,Active,2026-10-03 20:40:15.150654,Nurse Practitioner
+404,Provider 404,Neurology,,LIC-00404,Mumbai,Maharashtra,Inactive,2026-10-02 20:40:15.150654,Physician Assistant
+405,Provider 405,Orthopedics,5,LIC-00405,Pune,Maharashtra,Active,2026-10-01 20:40:15.150654,Physician
+406,Provider 406,Pediatrics,6,LIC-00406,Hyderabad,Telangana,Inactive,2026-09-30 20:40:15.150654,Surgeon
+407,Provider 407,General Medicine,7,LIC-00407,Bangalore,Karnataka,Active,2026-09-29 20:40:15.150654,Nurse Practitioner
+408,Provider 408,Oncology,8,LIC-00408,Chennai,Tamil Nadu,Inactive,2026-09-28 20:40:15.152080,Physician Assistant
+409,Provider 409,Cardiology,9,LIC-00409,Mumbai,Maharashtra,Active,2026-09-27 20:40:15.152080,Physician
+410,Provider 410,Neurology,10,LIC-00410,Pune,Maharashtra,Inactive,2026-09-26 20:40:15.153091,Surgeon
+411,Provider 411,Orthopedics,11,LIC-00411,Hyderabad,Telangana,Active,2026-09-25 20:40:15.153091,Nurse Practitioner
+412,Provider 412,Pediatrics,12,LIC-00412,Bangalore,Karnataka,Inactive,2026-09-24 20:40:15.153091,Physician Assistant
+413,Provider 413,General Medicine,13,LIC-00413,Chennai,Tamil Nadu,UNKNOWN,2026-09-23 20:40:15.153091,Physician
+414,Provider 414,Oncology,14,LIC-00414,Mumbai,Maharashtra,Inactive,2026-09-22 20:40:15.153091,Surgeon
+415,Provider 415,Cardiology,15,LIC-00415,Pune,Maharashtra,Active,2026-09-21 20:40:15.154875,Nurse Practitioner
+416,Provider 416,Neurology,16,LIC-00416,Hyderabad,Telangana,Inactive,2026-09-20 20:40:15.155260,Physician Assistant
+417,Provider 417,Orthopedics,17,LIC-00417,Bangalore,Karnataka,Active,2026-09-19 20:40:15.155260,Physician
+418,Provider 418,Pediatrics,18,LIC-00418,Chennai,Tamil Nadu,Inactive,2026-09-18 20:40:15.156222,Surgeon
+419,Provider 419,General Medicine,19,LIC-00419,Mumbai,Maharashtra,Active,2026-09-17 20:40:15.156222,Nurse Practitioner
+420,Provider 420,Oncology,20,LIC-00420,Pune,Maharashtra,Inactive,2026-09-16 20:40:15.156222,Physician Assistant
+421,Provider 421,Cardiology,21,LIC-00421,Hyderabad,Telangana,Active,2026-09-15 20:40:15.157229,Physician
+422,Provider 422,Neurology,22,LIC-00422,Bangalore,Karnataka,Inactive,2026-09-14 20:40:15.157229,Surgeon
+423,Provider 423,Orthopedics,23,LIC-00423,Chennai,Tamil Nadu,Active,2026-09-13 20:40:15.157229,Nurse Practitioner
+424,Provider 424,Pediatrics,24,LIC-00424,Mumbai,Maharashtra,Inactive,2026-09-12 20:40:15.158235,Physician Assistant
+425,Provider 425,General Medicine,25,LIC-00425,Pune,Maharashtra,Active,2026-09-11 20:40:15.158235,Physician
+426,,Oncology,26,LIC-00426,Hyderabad,Telangana,Inactive,2026-09-10 20:40:15.159755,Surgeon
+427,Provider 427,UNKNOWN,27,LIC-00427,Bangalore,Karnataka,Active,2026-09-09 20:40:15.159755,Nurse Practitioner
+428,Provider 428,Neurology,28,LIC-00428,Chennai,Tamil Nadu,Inactive,,Physician Assistant
+429,Provider 429,Orthopedics,29,LIC-00429,Mumbai,Maharashtra,Active,2026-09-07 20:40:15.160773,Physician
+430,Provider 430,Pediatrics,30,LIC-00430,Pune,Maharashtra,Inactive,2026-09-06 20:40:15.160773,Surgeon
+431,Provider 431,General Medicine,31,LIC-00431,Hyderabad,Telangana,Active,2026-09-05 20:40:15.160773,Nurse Practitioner
+432,Provider 432,Oncology,32,LIC-00432,Bangalore,Karnataka,Inactive,2026-09-04 20:40:15.161899,Physician Assistant
+433,Provider 433,Cardiology,33,LIC-00433,Chennai,Tamil Nadu,Active,2026-09-03 20:40:15.161899,Physician
+434,Provider 434,Neurology,34,LIC-00434,Mumbai,Maharashtra,Inactive,2026-09-02 20:40:15.162900,Surgeon
+435,Provider 435,Orthopedics,35,LIC-00435,Pune,Maharashtra,Active,2026-09-01 20:40:15.162900,Nurse Practitioner
+436,Provider 436,Pediatrics,36,LIC-00436,Hyderabad,Telangana,Inactive,2026-08-31 20:40:15.162900,Physician Assistant
+437,Provider 437,General Medicine,37,LIC-00437,Bangalore,Karnataka,Active,2026-08-30 20:40:15.164419,Physician
+438,Provider 438,Oncology,38,,Chennai,Tamil Nadu,Inactive,2026-08-29 20:40:15.164419,Surgeon
+439,Provider 439,Cardiology,39,LIC-00439,Mumbai,Maharashtra,Active,2026-08-28 20:40:15.165438,Nurse Practitioner
+440,Provider 440,Neurology,40,LIC-00440,Pune,Maharashtra,Inactive,2026-08-27 20:40:15.165438,Physician Assistant
+441,Provider 441,Orthopedics,41,LIC-00441,Hyderabad,Telangana,Active,2026-08-26 20:40:15.166442,Physician
+442,Provider 442,Pediatrics,42,LIC-00442,Bangalore,Karnataka,Inactive,2026-08-25 20:40:15.166442,Surgeon
+443,Provider 443,General Medicine,43,LIC-00443,Chennai,Tamil Nadu,Active,2026-08-24 20:40:15.167448,Nurse Practitioner
+444,Provider 444,Oncology,44,LIC-00444,Mumbai,Maharashtra,Inactive,2026-08-23 20:40:15.167448,Physician Assistant
+445,Provider 445,Cardiology,45,LIC-00445,Pune,Maharashtra,,2026-08-22 20:40:15.168441,Physician
+446,Provider 446,Neurology,46,LIC-00446,Hyderabad,Telangana,Inactive,2026-08-21 20:40:15.168441,Surgeon
+447,Provider 447,Orthopedics,47,LIC-00447,Bangalore,Karnataka,Active,2026-08-20 20:40:15.168441,Nurse Practitioner
+448,Provider 448,Pediatrics,48,LIC-00448,Chennai,Tamil Nadu,Inactive,2026-08-19 20:40:15.168441,Physician Assistant
+449,Provider 449,General Medicine,49,LIC-00449,Mumbai,Maharashtra,Active,2026-08-18 20:40:15.169956,Physician
+450,Provider 450,Oncology,50,LIC-00450,Pune,Maharashtra,Inactive,2026-08-17 20:40:15.170487,Surgeon
+451,Provider 451,Cardiology,51,LIC-00451,Hyderabad,Telangana,Active,2026-08-16 20:40:15.170487,Nurse Practitioner
+452,Provider 452,Neurology,52,LIC-00452,Bangalore,Karnataka,Inactive,2026-08-15 20:40:15.170487,UNKNOWN
+453,Provider 453,Orthopedics,53,LIC-00453,Chennai,Tamil Nadu,Active,2026-08-14 20:40:15.171504,Physician
+454,Provider 454,Pediatrics,54,LIC-00454,Mumbai,Maharashtra,Inactive,2026-08-13 20:40:15.172328,Surgeon
+455,Provider 455,General Medicine,55,LIC-00455,Pune,Maharashtra,Active,2026-08-12 20:40:15.172328,Nurse Practitioner
+456,Provider 456,Oncology,56,LIC-00456,Hyderabad,Telangana,Inactive,2026-08-11 20:40:15.172328,Physician Assistant
+457,Provider 457,Cardiology,57,LIC-00457,Bangalore,Karnataka,Active,2026-08-10 20:40:15.173549,Physician
+458,Provider 458,Neurology,58,LIC-00458,Chennai,Tamil Nadu,Inactive,2026-08-09 20:40:15.173549,Surgeon
+459,Provider 459,Orthopedics,59,LIC-00459,Mumbai,Maharashtra,Active,2026-08-08 20:40:15.174751,Nurse Practitioner
+460,Provider 460,Pediatrics,60,LIC-00460,Pune,Maharashtra,Inactive,2026-08-07 20:40:15.174751,Physician Assistant
+461,Provider 461,General Medicine,61,LIC-00461,Hyderabad,Telangana,Active,2026-08-06 20:40:15.175652,Physician
+462,Provider 462,Oncology,62,LIC-00462,Bangalore,Karnataka,Inactive,2026-08-05 20:40:15.175652,Surgeon
+463,Provider 463,Cardiology,63,LIC-00463,Chennai,Tamil Nadu,Active,2026-08-04 20:40:15.176662,Nurse Practitioner
+464,Provider 464,Neurology,64,LIC-00464,Mumbai,Maharashtra,Inactive,2026-08-03 20:40:15.176662,Physician Assistant
+465,Provider 465,Orthopedics,65,LIC-00465,Pune,Maharashtra,Active,2026-08-02 20:40:15.177674,Physician
+466,Provider 466,Pediatrics,66,LIC-00466,Hyderabad,Telangana,Inactive,2026-08-01 20:40:15.177674,Surgeon
+467,Provider 467,General Medicine,67,LIC-00467,Bangalore,Karnataka,Active,2026-07-31 20:40:15.177674,Nurse Practitioner
+468,Provider 468,Oncology,68,LIC-00468,Chennai,Tamil Nadu,Inactive,2026-07-30 20:40:15.178663,Physician Assistant
+469,Provider 469,Cardiology,9999,LIC-00469,Mumbai,Maharashtra,Active,2026-07-29 20:40:15.178663,Physician
+470,Provider 470,Neurology,70,LIC-00470,Pune,Maharashtra,Inactive,2026-07-28 20:40:15.179120,Surgeon
+471,Provider 471,Orthopedics,71,LIC-00471,Hyderabad,Telangana,Active,2026-07-27 20:40:15.179635,Nurse Practitioner
+472,Provider 472,Pediatrics,72,LIC-00472,Bangalore,Karnataka,UNKNOWN,2026-07-26 20:40:15.179635,Physician Assistant
+473,Provider 473,General Medicine,73,LIC-00473,Chennai,Tamil Nadu,Active,2026-07-25 20:40:15.180649,Physician
+474,Provider 474,Oncology,74,LIC-00474,Mumbai,Maharashtra,Inactive,2026-07-24 20:40:15.180649,
+475,Provider 475,Cardiology,75,LIC-00475,Pune,Maharashtra,Active,2026-07-23 20:40:15.180649,Nurse Practitioner
+476,Provider 476,Neurology,76,LIC-00476,Hyderabad,Telangana,Inactive,2026-07-22 20:40:15.180649,Physician Assistant
+477,Provider 477,Orthopedics,77,LIC-00477,Bangalore,Karnataka,Active,2026-07-21 20:40:15.182099,Physician
+478,Provider 478,Pediatrics,78,LIC-00478,Chennai,Tamil Nadu,Inactive,2026-07-20 20:40:15.182099,Surgeon
+479,Provider 479,General Medicine,79,LIC-00479,Mumbai,Maharashtra,Active,2026-07-19 20:40:15.183054,Nurse Practitioner
+480,Provider 480,Oncology,80,LIC-00480,Pune,Maharashtra,Inactive,2026-07-18 20:40:15.183054,Physician Assistant
+481,Provider 481,Cardiology,81,LIC-00481,Hyderabad,Telangana,Active,2026-07-17 20:40:15.183054,Physician
+482,Provider 482,Neurology,82,LIC-00482,Bangalore,Karnataka,Inactive,2026-07-16 20:40:15.184567,Surgeon
+483,Provider 483,Orthopedics,83,LIC-00483,Chennai,Tamil Nadu,Active,2026-07-15 20:40:15.184567,Nurse Practitioner
+484,Provider 484,Pediatrics,84,LIC-00484,Mumbai,Maharashtra,Inactive,2026-07-14 20:40:15.185765,Physician Assistant
+485,Provider 485,,85,LIC-00485,Pune,Maharashtra,Active,2026-07-13 20:40:15.185765,Physician
+486,Provider 486,Oncology,86,LIC-00486,Hyderabad,Telangana,Inactive,2026-07-12 20:40:15.185765,Surgeon
+487,Provider 487,Cardiology,87,LIC-00487,Bangalore,Karnataka,Active,2026-07-11 20:40:15.187000,Nurse Practitioner
+488,Provider 488,UNKNOWN,88,LIC-00488,Chennai,Tamil Nadu,Inactive,2026-07-10 20:40:15.187000,Physician Assistant
+489,Provider 489,Orthopedics,89,LIC-00489,Mumbai,Maharashtra,Active,2026-07-09 20:40:15.188000,Physician
+490,Provider 490,Pediatrics,90,LIC-00490,Pune,Maharashtra,Inactive,2026-07-08 20:40:15.188000,Surgeon
+491,Provider 491,General Medicine,91,LIC-00491,Hyderabad,Telangana,Active,2026-07-07 20:40:15.188000,Nurse Practitioner
+492,Provider 492,Oncology,92,LIC-00492,Bangalore,Karnataka,Inactive,2026-07-06 20:40:15.189562,Physician Assistant
+493,Provider 493,Cardiology,93,LIC-00493,Chennai,Tamil Nadu,Active,2026-07-05 20:40:15.189562,Physician
+494,Provider 494,Neurology,94,LIC-00494,Mumbai,Maharashtra,Inactive,2026-07-04 20:40:15.190635,Surgeon
+495,Provider 495,Orthopedics,95,LIC-00495,Pune,Maharashtra,Active,2026-07-03 20:40:15.190635,Nurse Practitioner
+496,Provider 496,Pediatrics,96,LIC-00496,Hyderabad,Telangana,Inactive,2026-07-02 20:40:15.191757,Physician Assistant
+497,,General Medicine,97,LIC-00497,Bangalore,Karnataka,Active,2026-07-01 20:40:15.191757,Physician
+498,Provider 498,Oncology,98,LIC-00498,Chennai,Tamil Nadu,Inactive,2026-06-30 20:40:15.192329,Surgeon
+499,Provider 499,Cardiology,99,LIC-00499,Mumbai,Maharashtra,Active,2026-06-29 20:40:15.192329,Nurse Practitioner
+500,Provider 500,Neurology,100,LIC-00500,Pune,Maharashtra,Inactive,2026-06-28 20:40:15.193453,Physician Assistant

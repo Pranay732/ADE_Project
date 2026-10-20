@@ -1,0 +1,101 @@
+hospital_id,hospital_name,hospital_type,city,state,bed_count,status,updated_at
+1,CityCare Hospital 1,General,Hyderabad,Telangana,67,Active,2026-10-05 20:40:14.921737
+2,CityCare Hospital 2,Specialty,Bangalore,Karnataka,84,Inactive,2026-10-04 20:40:14.922795
+3,CityCare Hospital 3,Teaching,Chennai,Tamil Nadu,101,Active,2026-10-03 20:40:14.922795
+4,CityCare Hospital 4,Community,Mumbai,Maharashtra,118,Inactive,2026-10-02 20:40:14.924312
+5,CityCare Hospital 5,General,Pune,Maharashtra,135,Active,2026-10-01 20:40:14.924312
+6,CityCare Hospital 6,Specialty,Hyderabad,Telangana,152,Inactive,2026-09-30 20:40:14.924312
+7,CityCare Hospital 7,Teaching,Bangalore,Karnataka,169,Active,2026-09-29 20:40:14.925327
+8,CityCare Hospital 8,Community,Chennai,Tamil Nadu,186,Inactive,2026-09-28 20:40:14.926324
+9,CityCare Hospital 9,General,Mumbai,Maharashtra,203,Active,2026-09-27 20:40:14.926324
+10,CityCare Hospital 10,Specialty,Pune,Maharashtra,220,Inactive,2026-09-26 20:40:14.927324
+11,CityCare Hospital 11,Teaching,Hyderabad,Telangana,237,Active,2026-09-25 20:40:14.927324
+12,CityCare Hospital 12,Community,Bangalore,Karnataka,254,Inactive,2026-09-24 20:40:14.928326
+13,CityCare Hospital 13,General,Chennai,Tamil Nadu,271,Active,2026-09-23 20:40:14.928326
+14,CityCare Hospital 14,Specialty,Mumbai,Maharashtra,288,Inactive,2026-09-22 20:40:14.928326
+15,CityCare Hospital 15,Teaching,Pune,Maharashtra,305,Active,2026-09-21 20:40:14.929844
+16,CityCare Hospital 16,Community,Hyderabad,Telangana,322,Inactive,2026-09-20 20:40:14.930383
+17,CityCare Hospital 17,General,Bangalore,Karnataka,339,Active,2026-09-19 20:40:14.930383
+18,CityCare Hospital 18,Specialty,Chennai,Tamil Nadu,356,Inactive,2026-09-18 20:40:14.931403
+19,CityCare Hospital 19,Teaching,Mumbai,Maharashtra,373,UNKNOWN,2026-09-17 20:40:14.931870
+20,CityCare Hospital 20,Community,Pune,Maharashtra,390,Inactive,2026-09-16 20:40:14.931870
+21,CityCare Hospital 21,General,Hyderabad,Telangana,407,Active,2026-09-15 20:40:14.932659
+22,CityCare Hospital 22,Specialty,Bangalore,Karnataka,424,Inactive,2026-09-14 20:40:14.932659
+23,CityCare Hospital 23,Teaching,Chennai,Tamil Nadu,-50,Active,2026-09-13 20:40:14.932659
+24,CityCare Hospital 24,Community,Mumbai,Maharashtra,458,Inactive,2026-09-12 20:40:14.934203
+25,CityCare Hospital 25,General,Pune,Maharashtra,475,Active,2026-09-11 20:40:14.935219
+26,CityCare Hospital 26,Specialty,Hyderabad,Telangana,492,Inactive,2026-09-10 20:40:14.935219
+27,CityCare Hospital 27,Teaching,Bangalore,Karnataka,59,Active,2026-09-09 20:40:14.936218
+28,CityCare Hospital 28,Community,Chennai,Tamil Nadu,76,Inactive,2026-09-08 20:40:14.936218
+29,,General,Mumbai,Maharashtra,93,Active,2026-09-07 20:40:14.936218
+30,CityCare Hospital 30,Specialty,Pune,Maharashtra,110,Inactive,2026-09-06 20:40:14.937225
+31,CityCare Hospital 31,UNKNOWN,Hyderabad,Telangana,127,Active,2026-09-05 20:40:14.938223
+32,CityCare Hospital 32,Community,Bangalore,Karnataka,144,Inactive,2026-09-04 20:40:14.938223
+33,CityCare Hospital 33,General,Chennai,Tamil Nadu,161,Active,2026-09-03 20:40:14.938223
+34,CityCare Hospital 34,Specialty,Mumbai,Maharashtra,178,Inactive,2026-09-02 20:40:14.939742
+35,CityCare Hospital 35,Teaching,Pune,Maharashtra,195,Active,2026-09-01 20:40:14.939742
+36,CityCare Hospital 36,Community,Hyderabad,Telangana,212,Inactive,2026-08-31 20:40:14.939742
+37,CityCare Hospital 37,General,Bangalore,Karnataka,229,Active,2026-08-30 20:40:14.940761
+38,CityCare Hospital 38,Specialty,Chennai,Tamil Nadu,246,UNKNOWN,2026-08-29 20:40:14.940761
+39,CityCare Hospital 39,Teaching,Mumbai,Maharashtra,263,Active,2026-08-28 20:40:14.941284
+40,CityCare Hospital 40,Community,Pune,Maharashtra,280,Inactive,2026-08-27 20:40:14.941284
+41,CityCare Hospital 41,General,Hyderabad,Telangana,297,Active,2026-08-26 20:40:14.941284
+42,CityCare Hospital 42,Specialty,Bangalore,Karnataka,314,Inactive,2026-08-25 20:40:14.942293
+43,CityCare Hospital 43,Teaching,Chennai,Tamil Nadu,0,,2026-08-24 20:40:14.942293
+44,CityCare Hospital 44,Community,Mumbai,Maharashtra,348,Inactive,2026-08-23 20:40:14.942293
+45,CityCare Hospital 45,General,Pune,Maharashtra,365,Active,2026-08-22 20:40:14.943294
+46,CityCare Hospital 46,Specialty,Hyderabad,Telangana,-50,Inactive,2026-08-21 20:40:14.943294
+47,CityCare Hospital 47,,Bangalore,Karnataka,399,Active,2026-08-20 20:40:14.943294
+48,CityCare Hospital 48,Community,Chennai,Tamil Nadu,416,Inactive,2026-08-19 20:40:14.944293
+49,CityCare Hospital 49,General,Mumbai,Maharashtra,433,Active,2026-08-18 20:40:14.944293
+50,CityCare Hospital 50,Specialty,Pune,Maharashtra,450,Inactive,2026-08-17 20:40:14.944293
+51,CityCare Hospital 51,Teaching,Hyderabad,Telangana,467,Active,2026-08-16 20:40:14.944293
+52,CityCare Hospital 52,Community,Bangalore,Karnataka,484,Inactive,2026-08-15 20:40:14.944293
+53,CityCare Hospital 53,General,Chennai,Tamil Nadu,,Active,2026-08-14 20:40:14.946018
+54,CityCare Hospital 54,Specialty,Mumbai,Maharashtra,68,Inactive,2026-08-13 20:40:14.946018
+55,CityCare Hospital 55,Teaching,Pune,Maharashtra,85,Active,2026-08-12 20:40:14.946018
+56,CityCare Hospital 56,Community,Hyderabad,Telangana,102,Inactive,2026-08-11 20:40:14.947216
+57,CityCare Hospital 57,General,Bangalore,Karnataka,119,UNKNOWN,2026-08-10 20:40:14.947216
+58,,Specialty,Chennai,Tamil Nadu,136,Inactive,2026-08-09 20:40:14.948223
+59,CityCare Hospital 59,Teaching,Mumbai,Maharashtra,153,Active,2026-08-08 20:40:14.948223
+60,CityCare Hospital 60,Community,Pune,Maharashtra,170,Inactive,2026-08-07 20:40:14.948223
+61,CityCare Hospital 61,General,Hyderabad,Telangana,187,Active,
+62,CityCare Hospital 62,UNKNOWN,Bangalore,Karnataka,204,Inactive,2026-08-05 20:40:14.949744
+63,CityCare Hospital 63,Teaching,Chennai,Tamil Nadu,221,Active,2026-08-04 20:40:14.949744
+64,CityCare Hospital 64,Community,Mumbai,Maharashtra,238,Inactive,2026-08-03 20:40:14.950804
+65,CityCare Hospital 65,General,Pune,Maharashtra,255,Active,2026-08-02 20:40:14.950804
+66,CityCare Hospital 66,Specialty,Hyderabad,Telangana,272,Inactive,2026-08-01 20:40:14.951860
+67,CityCare Hospital 67,Teaching,Bangalore,Karnataka,289,Active,2026-07-31 20:40:14.951860
+68,CityCare Hospital 68,Community,Chennai,Tamil Nadu,306,Inactive,2026-07-30 20:40:14.952859
+69,CityCare Hospital 69,General,Mumbai,Maharashtra,-50,Active,2026-07-29 20:40:14.952859
+70,CityCare Hospital 70,Specialty,Pune,Maharashtra,340,Inactive,2026-07-28 20:40:14.952859
+71,CityCare Hospital 71,Teaching,Hyderabad,Telangana,357,Active,2026-07-27 20:40:14.954374
+72,CityCare Hospital 72,Community,Bangalore,Karnataka,374,Inactive,2026-07-26 20:40:14.954374
+73,CityCare Hospital 73,General,Chennai,Tamil Nadu,391,Active,2026-07-25 20:40:14.955391
+74,CityCare Hospital 74,Specialty,Mumbai,Maharashtra,408,Inactive,2026-07-24 20:40:14.955391
+75,CityCare Hospital 75,Teaching,Pune,Maharashtra,425,Active,2026-07-23 20:40:14.956402
+76,CityCare Hospital 76,Community,Hyderabad,Telangana,442,UNKNOWN,2026-07-22 20:40:14.956402
+77,CityCare Hospital 77,General,Bangalore,Karnataka,459,Active,2026-07-21 20:40:14.957392
+78,CityCare Hospital 78,Specialty,Chennai,Tamil Nadu,476,Inactive,2026-07-20 20:40:14.957392
+79,CityCare Hospital 79,Teaching,Mumbai,Maharashtra,493,Active,2026-07-19 20:40:14.958402
+80,CityCare Hospital 80,Community,Pune,Maharashtra,60,Inactive,2026-07-18 20:40:14.958402
+81,CityCare Hospital 81,General,Hyderabad,Telangana,77,Active,2026-07-17 20:40:14.958402
+82,CityCare Hospital 82,Specialty,Bangalore,Karnataka,94,Inactive,2026-07-16 20:40:14.959912
+83,CityCare Hospital 83,Teaching,Chennai,Tamil Nadu,111,Active,2026-07-15 20:40:14.960476
+84,CityCare Hospital 84,Community,Mumbai,Maharashtra,128,Inactive,2026-07-14 20:40:14.960476
+85,CityCare Hospital 85,General,Pune,Maharashtra,145,Active,2026-07-13 20:40:14.960476
+86,CityCare Hospital 86,Specialty,Hyderabad,Telangana,0,,2026-07-12 20:40:14.960476
+87,,Teaching,Bangalore,Karnataka,179,Active,2026-07-11 20:40:14.961932
+88,CityCare Hospital 88,Community,Chennai,Tamil Nadu,196,Inactive,2026-07-10 20:40:14.961932
+89,CityCare Hospital 89,General,Mumbai,Maharashtra,213,Active,2026-07-09 20:40:14.962573
+90,CityCare Hospital 90,Specialty,Pune,Maharashtra,230,Inactive,2026-07-08 20:40:14.963178
+91,CityCare Hospital 91,Teaching,Hyderabad,Telangana,247,Active,2026-07-07 20:40:14.963178
+92,CityCare Hospital 92,Community,Bangalore,Karnataka,-50,Inactive,2026-07-06 20:40:14.963178
+93,CityCare Hospital 93,UNKNOWN,Chennai,Tamil Nadu,281,Active,2026-07-05 20:40:14.963178
+94,CityCare Hospital 94,,Mumbai,Maharashtra,298,Inactive,2026-07-04 20:40:14.963178
+95,CityCare Hospital 95,Teaching,Pune,Maharashtra,315,UNKNOWN,2026-07-03 20:40:14.964889
+96,CityCare Hospital 96,Community,Hyderabad,Telangana,332,Inactive,2026-07-02 20:40:14.964889
+97,CityCare Hospital 97,General,Bangalore,Karnataka,349,Active,2026-07-01 20:40:14.965890
+98,CityCare Hospital 98,Specialty,Chennai,Tamil Nadu,366,Inactive,2026-06-30 20:40:14.965890
+99,CityCare Hospital 99,Teaching,Mumbai,Maharashtra,383,Active,2026-06-29 20:40:14.966887
+100,CityCare Hospital 100,Community,Pune,Maharashtra,400,Inactive,2026-06-28 20:40:14.966887

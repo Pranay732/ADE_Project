@@ -1,0 +1,51 @@
+insurance_plan_id,insurance_company,plan_name,plan_type,coverage_percentage,annual_limit,status,updated_at
+1,HealthSecure,Plan 1,Individual,63.00,50791.00,Active,2026-10-05 20:40:15.193453
+2,MediCare Plus,Plan 2,Family,66.00,51582.00,Inactive,2026-10-04 20:40:15.194463
+3,WellLife,Plan 3,Employer,69.00,52373.00,Active,2026-10-03 20:40:15.194463
+4,Prime Health,Plan 4,Government,72.00,53164.00,Inactive,2026-10-02 20:40:15.195468
+5,National Health,Plan 5,Individual,75.00,53955.00,Active,2026-10-01 20:40:15.196002
+6,HealthSecure,Plan 6,Family,78.00,54746.00,Inactive,2026-09-30 20:40:15.196544
+7,MediCare Plus,Plan 7,Employer,81.00,55537.00,Active,
+8,WellLife,Plan 8,Government,84.00,56328.00,Inactive,2026-09-28 20:40:15.196959
+9,Prime Health,Plan 9,Individual,87.00,57119.00,Active,2026-09-27 20:40:15.198031
+10,National Health,Plan 10,Family,90.00,57910.00,Inactive,2026-09-26 20:40:15.198031
+11,HealthSecure,Plan 11,Employer,93.00,58701.00,UNKNOWN,2026-09-25 20:40:15.198031
+12,MediCare Plus,Plan 12,Government,96.00,59492.00,Inactive,2026-09-24 20:40:15.199610
+13,WellLife,Plan 13,Individual,125.00,60283.00,Active,2026-09-23 20:40:15.199610
+14,Prime Health,Plan 14,Family,61.00,61074.00,Inactive,
+15,National Health,Plan 15,Employer,64.00,61865.00,Active,2026-09-21 20:40:15.201179
+16,HealthSecure,Plan 16,Government,67.00,62656.00,Inactive,2026-09-20 20:40:15.201179
+17,MediCare Plus,,Individual,70.00,-5000.00,Active,2026-09-19 20:40:15.202223
+18,WellLife,Plan 18,Family,73.00,64238.00,Inactive,2026-09-18 20:40:15.202741
+19,Prime Health,Plan 19,UNKNOWN,76.00,65029.00,Active,2026-09-17 20:40:15.202741
+20,National Health,Plan 20,Government,79.00,65820.00,Inactive,2026-09-16 20:40:15.204268
+21,HealthSecure,Plan 21,Individual,82.00,66611.00,Active,
+22,MediCare Plus,Plan 22,Family,85.00,67402.00,UNKNOWN,2026-09-14 20:40:15.205306
+23,WellLife,Plan 23,Employer,88.00,68193.00,Active,2026-09-13 20:40:15.205306
+24,Prime Health,Plan 24,Government,91.00,68984.00,Inactive,2026-09-12 20:40:15.206368
+25,National Health,Plan 25,Individual,94.00,69775.00,Active,2026-09-11 20:40:15.206368
+26,HealthSecure,Plan 26,Family,125.00,70566.00,Inactive,2026-09-10 20:40:15.207304
+27,MediCare Plus,Plan 27,Employer,100.00,71357.00,,2026-09-09 20:40:15.207304
+28,WellLife,Plan 28,Government,62.00,72148.00,Inactive,
+29,Prime Health,Plan 29,,65.00,72939.00,Active,2026-09-07 20:40:15.208305
+30,National Health,Plan 30,Family,68.00,73730.00,Inactive,2026-09-06 20:40:15.209815
+31,HealthSecure,Plan 31,Employer,-10.00,74521.00,Active,2026-09-05 20:40:15.210345
+32,MediCare Plus,Plan 32,Government,74.00,75312.00,Inactive,2026-09-04 20:40:15.211362
+33,WellLife,Plan 33,Individual,77.00,76103.00,UNKNOWN,2026-09-03 20:40:15.211802
+34,Prime Health,,Family,80.00,-5000.00,Inactive,2026-09-02 20:40:15.212360
+35,National Health,Plan 35,Employer,83.00,77685.00,Active,
+36,HealthSecure,Plan 36,Government,86.00,78476.00,Inactive,2026-08-31 20:40:15.213363
+37,MediCare Plus,Plan 37,Individual,,79267.00,Active,2026-08-30 20:40:15.213363
+38,WellLife,Plan 38,UNKNOWN,92.00,80058.00,Inactive,2026-08-29 20:40:15.214359
+39,Prime Health,Plan 39,Employer,125.00,80849.00,Active,2026-08-28 20:40:15.214359
+40,National Health,Plan 40,Government,98.00,81640.00,Inactive,2026-08-27 20:40:15.214359
+41,HealthSecure,Plan 41,Individual,60.00,82431.00,Active,2026-08-26 20:40:15.215361
+42,MediCare Plus,Plan 42,Family,63.00,83222.00,Inactive,
+43,WellLife,Plan 43,Employer,66.00,,Active,2026-08-24 20:40:15.216358
+44,Prime Health,Plan 44,Government,69.00,84804.00,UNKNOWN,2026-08-23 20:40:15.217359
+45,National Health,Plan 45,Individual,72.00,85595.00,Active,2026-08-22 20:40:15.217359
+46,HealthSecure,Plan 46,Family,75.00,86386.00,Inactive,2026-08-21 20:40:15.217359
+47,MediCare Plus,Plan 47,Employer,78.00,87177.00,Active,2026-08-20 20:40:15.218355
+48,WellLife,Plan 48,Government,81.00,87968.00,Inactive,2026-08-19 20:40:15.218355
+49,Prime Health,Plan 49,Individual,84.00,88759.00,Active,
+50,National Health,Plan 50,Family,87.00,89550.00,Inactive,2026-08-17 20:40:15.218355
