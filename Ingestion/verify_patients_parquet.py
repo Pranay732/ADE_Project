@@ -22,7 +22,7 @@ if hadoop_bin not in os.environ.get("PATH", ""):
 # 2. PARQUET PATHS
 # ============================================================
 
-PROJECT_DIR = Path(r"C:\Users\Joy\DE_Project")
+PROJECT_DIR = Path(r"E:\ADE_Project")
 
 TRANSLATE_DIR = (
     PROJECT_DIR / "data" / "translate" / "healthcare" / "patients"
